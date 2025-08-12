@@ -1,7 +1,7 @@
 # Java-first-program
-package khushi.program 
-Public Class hello {
-    Public static void main (String[] args) {
+package khushi.program ;
+public class hello {
+  public static void main (String[] args) {
     System.out.println ("hello java ");
     }
     }
